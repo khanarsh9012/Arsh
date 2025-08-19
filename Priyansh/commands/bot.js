@@ -344,10 +344,10 @@ if ((event.body.toLowerCase() == "I love you") || (event.body.toLowerCase() == "
    };
 
    if ((event.body.toLowerCase() == "&fuck") || (event.body.toLowerCase() == "&Fuck")) {
-     return api.sendMessage("🏔️🏝️Julmi Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
+     return api.sendMessage("🏔️🏝️Jamal Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
    };
 
-  if ((event.body.toLowerCase() == "ami julmi") || (event.body.toLowerCase() == "ami jamal pathan") || (event.body.toLowerCase() == "main jamal pathan") || (event.body.toLowerCase() == "main jamal") || (event.body.toLowerCase() == "main jamal")) {
+  if ((event.body.toLowerCase() == "ami jamal") || (event.body.toLowerCase() == "ami jamal pathan") || (event.body.toLowerCase() == "main jamal pathan") || (event.body.toLowerCase() == "main jamal") || (event.body.toLowerCase() == "main jamal")) {
      return api.sendMessage("🕊️🍎...Aɭɛ Ɱɛɹɛ Ɓɑɓɣ Ƙɛʂɛ Ɦɵ ɑɑp😚🍒", threadID);
    };
    
