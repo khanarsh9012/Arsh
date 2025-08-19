@@ -3,7 +3,7 @@ module.exports.config = {
   name: "Funny bot",
     version: "1.1.1",
   hasPermssion: 0,
-  credits: "𝑱𝑼𝑳𝑴𝑰 𝑱𝑨𝑨𝑻", 
+  credits: "JAMAL PATHAN", 
   description: "Just Respond",
   commandCategory: "no prefix",
     cooldowns: 5, 
