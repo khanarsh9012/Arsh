@@ -3,7 +3,7 @@ module.exports.config = {
   name: "sorry",
     version: "1.1.1",
   hasPermssion: 0,
-  credits: "𝑱𝑼𝑳𝑴𝑰 𝑱𝑨𝑨𝑻", 
+  credits: "JAMAL PATHAN", 
   description: "Just Respond",
   commandCategory: "no prefix",
     cooldowns: 5, 
@@ -12,8 +12,8 @@ module.exports.config = {
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
   let react = event.body.toLowerCase();
-  if(react.includes("Me julmi hu BSDK") ||
-     react.includes("Tera malik hu") || react.includes("Tera boss hu julmi") || react.includes("Tera papa hu") ||
+  if(react.includes("Me jamal hu BSDK") ||
+     react.includes("Tera malik hu") || react.includes("Tera boss hu jamal") || react.includes("Tera papa hu") ||
 react.includes("Tera boss hu julmi jaat") ||
 react.includes("Malik se bckchodi")) {
     var msg = {
