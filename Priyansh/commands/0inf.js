@@ -30,17 +30,17 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥─━━◉❖𝗝𝗨𝗟𝗠𝗜≛𝗝𝗔𝗔𝗧❖◉━━─💔🥀
+🔥Bot Admin🔥─━━◉❖𝗝𝗔𝗠𝗔𝗟≛𝗣𝗔𝗧𝗛𝗔𝗡❖◉━━─💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/share/16mueuhpoH/ 💞🕊️
 
-👋For Any Kind Of Help Contact On Instagram 👇👇 https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==
+👋For Any Kind Of Help Contact On Instagram 👇👇 https://www.instagram.com/alex972740?igsh=MWNpbDFnMzYyM3p5Nw==
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ─━━◉❖𝗝𝗨𝗟𝗠𝗜≛𝗝𝗔𝗔𝗧❖◉━━─
+♥️Bot Owner♥️ ─━━◉❖𝗝𝗔𝗠𝗔𝗟≛𝗣𝗔𝗧𝗛𝗔𝗡❖◉━━─
 
 🥳UPTIME🥳
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒─━━◉❖जुल्मी≛जाट❖◉━━─🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒─━━◉❖जमाल≛पठान❖◉━━─🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
