@@ -175,12 +175,8 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "julmi") || (event.body.toLowerCase() == "jamal pathan") || (event.body.toLowerCase() == "जमाल") || (event.body.toLowerCase() == "जमाल पठान")) {
-     return api.sendMessage( " Julmi Busy HoGa Work Me Yha Main t0o Hun Na https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL😘",threadID);
-
-
-   };
-
-   if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
+     return api.sendMessage( " Mera Jamal Babu Busy Hoga Work Me Yha Ma To Hun Na https://www.facebook.com/share/1B84wpQ7gg/"
+   };toLowerCasevent.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
      return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝗝𝗔𝗠𝗔𝗟 𝗣𝗔𝗧𝗛𝗔𝗡☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗝𝗔𝗠𝗔𝗟\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/share/1NkEZ5RHg5/\n👋For Any Kind Of Help Contact On Instagram Username 👉https://www.instagram.com/alex972740?igsh=MWNpbDFnMzYyM3p5Nw==😇", threadID);
    };
 
