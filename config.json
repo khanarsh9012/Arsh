@@ -13,18 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "motubot05@gmail.com",
-    "PASSWORD": "",
+    "EMAIL": "kicigo3882@cansku.com",
+    "PASSWORD": "RJ07ZAINA",
     "OTPKEY": "",
-    "BOTNAME": " ✦🌎मै मोटू हूँ🌎🦋🎀:-)──➣✦🍒",
-    "PREFIX": "+",
+    "BOTNAME": " ✦🌎𝐏𝐑𝐈𝐍𝐂𝐄🌎🦋🎀:-)──➣✦🍒",
+    "PREFIX": "#",
     "ADMINBOT": [
         "100071943783967"
-        "61579760900997"
     ],
     "NDH": [
         "100071943783967"
-        "61579760900997"
     ],
     "DATABASE": {
         "sqlite": {
@@ -232,4 +230,4 @@
         "autoUnsend": true,
         "delayUnsend": 300
     }
-    }
+}
