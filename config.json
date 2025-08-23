@@ -13,11 +13,11 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "khanarsh901285@gmail.com",
+    "EMAIL": "motubot05@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": " ✦🌎𝗠𝗢𝗧𝗨🙈𝗕𝗢𝗧🌎🦋🎀:-)──➣✦🍒",
-    "PREFIX": "#",
+    "BOTNAME": " ✦🌎मै मोटू हूँ🌎🦋🎀:-)──➣✦🍒",
+    "PREFIX": "+",
     "ADMINBOT": [
         "100071943783967"
         "61579760900997"
@@ -232,4 +232,4 @@
         "autoUnsend": true,
         "delayUnsend": 300
     }
-}
+    }
