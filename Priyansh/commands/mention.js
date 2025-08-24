@@ -2,18 +2,18 @@ module.exports.config = {
   name: "goiadmin",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "Jamal Pathan",
   description: "Bot will rep ng tag admin or rep ng tagbot ",
   commandCategory: "Other",
   usages: "",
   cooldowns: 1
 };
 module.exports.handleEvent = function({ api, event }) {
-  if (event.senderID !== "100037743553265") {
-    var aid = ["100037743553265"];
+  if (event.senderID !== "100071943783967") {
+    var aid = ["100071943783967"];
     for (const id of aid) {
     if ( Object.keys(event.mentions) == id) {
-      var msg = ["Wo Busy H mujhe Bolo Kya Bolna H?", "Kya Hua Boss ko q Bula Rhe Ho?", "Wo Shayad Busy hoga", "Priyansh Toh Chala gaya"];
+      var msg = ["Jamal Busy Ha mujhe Bolo Kya Bolna H?", "Kya Hua Jamal Boss ko q Bula Rhe Ho?", "Jamal Shayad Busy hoga", "Jamal Toh Chala gaya"];
       return api.sendMessage({body: msg[Math.floor(Math.random()*msg.length)]}, event.threadID, event.messageID);
     }
     }}
